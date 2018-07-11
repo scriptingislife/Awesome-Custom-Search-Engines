@@ -2,6 +2,20 @@
 
 Google Chrome's custom search engines allows you to search any website from the address bar by typing a keyword, tab, and then your search. The hope is to organize these searches in the awesome list format.
 
+## Setup
+
+First, go to Chrome's main settings page and navigate to the Search Engines section.
+
+![Manage](res/manage.png)
+
+Add a new search engine
+
+![Add](res/add.png)
+
+Fill in the fields. The keyword is what you will type before pressing tab.
+
+![Fill](res/fill.png)
+
 ## Cybersecurity
 
 * [Censys](https://censys.io/) - Search devices on the internet `https://censys.io/ipv4?q=%s`
