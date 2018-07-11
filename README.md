@@ -6,7 +6,7 @@ Google Chrome's custom search engines allows you to search any website from the 
 
 * [Censys](https://censys.io/) - Search devices on the internet `https://censys.io/ipv4?q=%s`
 * [CVE Details](https://www.cvedetails.com/) - Get details on a specific CVE ID `https://www.cvedetails.com/cve/%s`
-* [Reddit](https://github.com/pushshift/api) - Search deleted a Reddit user's deleted posts `https://api.pushshift.io/reddit/search/submission/?author=%s`
+* [Reddit](https://github.com/pushshift/api) - Search a Reddit user's deleted posts `https://api.pushshift.io/reddit/search/submission/?author=%s`
 * [Shodan](https://shodan.io) - Search devices on the internet `https://www.shodan.io/search?query=%s`
 * [VirusTotal](https://www.virustotal.com/) - Analyze suspicious URLs, domains, or files `https://www.virustotal.com/#/search/%s`
 * [Whois Lookup](https://whois.domaintools.com/) `http://whois.domaintools.com/%s`
