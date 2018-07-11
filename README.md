@@ -30,6 +30,9 @@ Fill in the fields. The keyword is what you will type before pressing tab.
 
 * [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/) - Get details on a specific HTTP response code `https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/%s`
 
+## Internet
+
+* [Twitter](https://twitter.com/) - Search Twitter `https://twitter.com/search?q=%s`
 
 ## Other
 
