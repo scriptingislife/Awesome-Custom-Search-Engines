@@ -1,6 +1,6 @@
 # Awesome Chrome Search Engines [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Google Chrome's custom search engines allows you to search any website from the address bar by typing a keyword, tab, and then your search. The hope is to organize these searches in the awesome list format.
+Google Chrome's custom search engines allows you to search any website from the address bar by typing a keyword, tab, and then your search. These strings can also be used in programs and scripts.
 
 ## Setup
 
