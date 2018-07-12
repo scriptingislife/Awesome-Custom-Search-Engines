@@ -4,7 +4,7 @@
 
 ![Manage](res/manage.png)
 
-### Add a new search engine
+### Add a new search engine.
 
 ![Add](res/add.png)
 
