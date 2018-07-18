@@ -13,6 +13,7 @@ Read [CONFIGURE.md](CONFIGURE.md).
 * [Reddit](https://github.com/pushshift/api) - Search a Reddit user's posts (including deleted) `https://api.pushshift.io/reddit/search/submission/?author=%s`
 * [Shodan](https://shodan.io) - Search devices on the internet `https://www.shodan.io/search?query=%s`
 * [Threatcrowd](https://www.threatcrowd.org) - Correlate IPs, domains, emails, etc. `https://www.threatcrowd.org/domain.php?domain=%s`
+* [URLScan.io Domain](https://urlscan.io) - Lookup domain information and past scans. `https://urlscan.io/domain/%s` 
 * [VirusTotal](https://www.virustotal.com/) - Analyze suspicious URLs, domains, or files `https://www.virustotal.com/#/search/%s`
 * [Whois Lookup](https://whois.domaintools.com/) - Search Whois data for a domain or IP `http://whois.domaintools.com/%s`
 * [ZoomEye](https://www.zoomeye.org/) - A cyberspace search engine `https://www.zoomeye.org/searchResult?q=%s`
