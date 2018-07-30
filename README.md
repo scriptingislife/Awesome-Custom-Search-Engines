@@ -10,7 +10,7 @@ Read [CONFIGURE.md](CONFIGURE.md).
 
 * [Censys](https://censys.io/) - Search devices on the internet `https://censys.io/ipv4?q=%s`
 * [CVE Details](https://www.cvedetails.com/) - Get details on a specific CVE ID `https://www.cvedetails.com/cve/%s`
-* [Reddit](https://github.com/pushshift/api) - Search a Reddit user's posts (including deleted) `https://api.pushshift.io/reddit/search/submission/?author=%s`
+* [Reddit](https://github.com/pushshift/api) - OSINT. Search a Reddit user's posts (including deleted) `https://api.pushshift.io/reddit/search/submission/?author=%s`
 * [Shodan](https://shodan.io) - Search devices on the internet `https://www.shodan.io/search?query=%s`
 * [Threatcrowd](https://www.threatcrowd.org) - Correlate IPs, domains, emails, etc. `https://www.threatcrowd.org/domain.php?domain=%s`
 * [URLScan.io Domain](https://urlscan.io) - Lookup domain information and past scans. `https://urlscan.io/domain/%s` 
