@@ -14,6 +14,7 @@ Read [CONFIGURE.md](CONFIGURE.md).
 * [Shodan](https://shodan.io) - Search devices on the internet `https://www.shodan.io/search?query=%s`
 * [Threatcrowd](https://www.threatcrowd.org) - Correlate IPs, domains, emails, etc. `https://www.threatcrowd.org/domain.php?domain=%s`
 * [URLScan.io Domain](https://urlscan.io) - Lookup domain information and past scans. `https://urlscan.io/domain/%s` 
+* [URLScan.io General](https://urlscan.io) - Search scans that contain files, IPs, etc. `https://urlscan.io/search/#%s`
 * [VirusTotal](https://www.virustotal.com/) - Analyze suspicious URLs, domains, or files `https://www.virustotal.com/#/search/%s`
 * [Whois Lookup](https://whois.domaintools.com/) - Search Whois data for a domain or IP `http://whois.domaintools.com/%s`
 * [ZoomEye](https://www.zoomeye.org/) - A cyberspace search engine `https://www.zoomeye.org/searchResult?q=%s`
@@ -24,6 +25,7 @@ Read [CONFIGURE.md](CONFIGURE.md).
 
 ## Internet
 
+* [Reddit](https://reddit.com) - Use the Reddit Search `https://reddit.com/search?q=%s`
 * [Twitter](https://twitter.com/) - Search Twitter `https://twitter.com/search?q=%s`
 
 ## Other
