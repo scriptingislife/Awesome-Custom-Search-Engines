@@ -22,6 +22,7 @@ Read [CONFIGURE.md](CONFIGURE.md).
 ## Technology
 
 * [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/) - Get details on a specific HTTP response code `https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/%s`
+* [Port Lookup](https://www.speedguide.net/) - Lookup what service is assigned to a port `https://www.speedguide.net/port.php?port=%s`
 
 ## Internet
 
