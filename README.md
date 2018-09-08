@@ -6,6 +6,8 @@ Custom search engines allow you to search any website from the address bar by ty
 
 Read the guide for [Firefox](FIREFOX.md) or the guide for [Chrome](CHROME.md).
 
+_Note: The %s in the strings should be removed for Firefox._
+
 ## Cybersecurity
 
 * [Censys](https://censys.io/) - Search devices on the internet `https://censys.io/ipv4?q=%s`
