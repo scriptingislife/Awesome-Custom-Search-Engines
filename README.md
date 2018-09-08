@@ -2,9 +2,9 @@
 
 Google Chrome's custom search engines allows you to search any website from the address bar by typing a keyword, tab, and then your search. These strings can also be used in programs and scripts.
 
-## Setup
+## Configuration
 
-Read [CONFIGURE.md](CONFIGURE.md).
+Read the guide for [Firefox](FIREFOX.md) or the guide for [Chrome](CHROME.md).
 
 ## Cybersecurity
 
