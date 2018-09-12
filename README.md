@@ -39,3 +39,4 @@ _Note: The %s in the strings should be removed for Firefox._
 
 * [AllRecipes](https://www.allrecipes.com) - Search for recipes `https://www.allrecipes.com/search/results/?wt=%s`
 * [Google Job Search](https://www.google.com/search?q=test&ibp=htl;jobs) - Search Google for jobs `https://www.google.com/search?q=%s&ibp=htl;jobs`
+* [Thesaurus](https://www.thesaurus.com/) - Lookup synonyms and antonyms of a word `https://www.thesaurus.com/browse/%s`
