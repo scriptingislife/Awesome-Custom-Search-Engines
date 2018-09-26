@@ -27,6 +27,7 @@ _Note: The %s in the strings should be removed for Firefox._
 * [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/) - See a description of a specific HTTP header `https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/%s`
 * [Port Lookup](https://www.speedguide.net/) - Lookup what service is assigned to a port `https://www.speedguide.net/port.php?port=%s`
 * [Stack Overflow](https://stackoverflow.com/) - Search Stack Overflow for programming answers `https://stackoverflow.com/search?q=%s`
+* [Docker Hub](https://hub.docker.com) - Search for container images `https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=%s&starCount=0`
 
 ## Internet
 * [Facebook](https://facebook.com) - Search Facebook `https://www.facebook.com/search/top/?q=%s`
