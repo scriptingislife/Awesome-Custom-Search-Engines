@@ -23,7 +23,7 @@ _Note: The %s in the strings should be removed for Firefox._
 
 ## Technology
 * [File Extensions](https://fileinfo.com/) - Get details on a file extension `https://fileinfo.com/extension/%s`
-* [HTML Tag](https://www.w3schools.com/tags/default.asp) - Get definitions and usage for an HTML tag `https://www.w3schools.com/tags/tag_%s.asp`
+* [HTML Tags](https://www.w3schools.com/tags/default.asp) - Get definitions and usage for an HTML tag `https://www.w3schools.com/tags/tag_%s.asp`
 * [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/) - Get details on a specific HTTP response code `https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/%s`
 * [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/) - See a description of a specific HTTP header `https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/%s`
 * [Port Lookup](https://www.speedguide.net/) - Lookup what service is assigned to a port `https://www.speedguide.net/port.php?port=%s`
