@@ -13,8 +13,8 @@ Cybersecurity;RiskIQ;riskiq;https://community.riskiq.com/search/%s/;
 Cybersecurity;docs.sekoia.io;sekoiadoc;https://docs.sekoia.io/search.html?q=%s;
 Cybersecurity;Shodan;shodan;https://www.shodan.io/search?query=%s;Search devices on the internet
 Cybersecurity;Threatcrowd;tc;https://www.threatcrowd.org/domain.php?domain=%s;Correlate IPs, domains, emails, etc
-Cybersecurity;URLScan.io - Domain;urlscand; https://urlscan.io/domain/%s;Lookup domain information and past scans
-Cybersecurity;URLScan.io - General;urlscan;https://urlscan.io/search/#%s;Search scans that contain files, IPs, etc
+Cybersecurity;URLScan.io Domain;urlscand; https://urlscan.io/domain/%s;Lookup domain information and past scans
+Cybersecurity;URLScan.io General;urlscan;https://urlscan.io/search/#%s;Search scans that contain files, IPs, etc
 Cybersecurity;VirusTotal;vt;https://www.virustotal.com/#/search/%s;Analyze suspicious URLs, domains, or files
 Cybersecurity;whois.domaintools.com;whois;https://whois.domaintools.com/go/?q=%s&service=whois;Search Whois data for a domain or IP
 Cybersecurity;ZoomEye ;ze;https://www.zoomeye.org/searchResult?q=%s;A cyberspace search engine
@@ -39,8 +39,8 @@ Social media;LinkedIn;linkedin;https://www.linkedin.com/search/results/all/?keyw
 Social media;Reddit;reddit;https://reddit.com/search?q=%s;Use the Reddit Search
 Social media;Twitter;tw;https://twitter.com/search?q=%s;Search Twitter
 Software;AlternativeTo Software;altern;https://alternativeto.net/browse/search/?q=%s;
-Technology;Docker Hub - Image;dh;https://hub.docker.com/search?q=%s&type=image;
-Technology;Docker Hub ;dockerhub;https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=%s&starCount=0; Search for container images
+Technology;Docker Hub Image;dh;https://hub.docker.com/search?q=%s&type=image;
+Technology;Docker Hub;dockerhub;https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=%s&starCount=0; Search for container images
 Technology;Epoch Converter - Epoch to Date;epoch;https://www.epochconverter.com/?source=searchbar&q=%s;
 Technology;File Extensions;extension;https://fileinfo.com/extension/%s; Get details on a file extension
 Technology;Github;gh;https://github.com/search?q=%s&ref=opensearch;
@@ -56,7 +56,7 @@ Technology;Stack Exchange;stackexch;https://skeptics.stackexchange.com/search?q=
 Technology;Stack Overflow;stackover;https://stackoverflow.com/search?q=%s; Search Stack Overflow for programming answers
 Technology;explainshell.com;xshell;https://explainshell.com/explain?cmd=%s;
 Tool;Wolfram Alpha;walpha;https://www.wolframalpha.com/input/?i=%s;Do math calculations
-Translation;Google - Translate English to French;gtradenfr;https://translate.google.com/#en%7Cfr%7C%s%0A;
-Translation;Google - Translate French to English;gtradfren;https://translate.google.com/#fr%7Cen%7C%s%0A;
+Translation;Google Translate English to French;gtradenfr;https://translate.google.com/#en%7Cfr%7C%s%0A;
+Translation;Google Translate French to English;gtradfren;https://translate.google.com/#fr%7Cen%7C%s%0A;
 Translation;Linguee;linenfr;https://www.linguee.fr/anglais-francais/search?source=auto&query=%s;
 Translation;Linguee;linfren;https://www.linguee.fr/francais-anglais/search?source=auto&query=%s;
