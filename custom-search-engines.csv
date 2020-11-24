@@ -13,7 +13,7 @@ Cybersecurity;RiskIQ;riskiq;https://community.riskiq.com/search/%s/;
 Cybersecurity;docs.sekoia.io;sekoiadoc;https://docs.sekoia.io/search.html?q=%s;
 Cybersecurity;Shodan;shodan;https://www.shodan.io/search?query=%s;Search devices on the internet
 Cybersecurity;Threatcrowd;tc;https://www.threatcrowd.org/domain.php?domain=%s;Correlate IPs or domains or emails or other
-Cybersecurity;URLScan.io Domain;urlscand; https://urlscan.io/domain/%s;Lookup domain information and past scans
+Cybersecurity;URLScan.io Domain;urlscand;https://urlscan.io/domain/%s;Lookup domain information and past scans
 Cybersecurity;URLScan.io General;urlscan;https://urlscan.io/search/#%s;Search scans that contain files, IPs, etc
 Cybersecurity;VirusTotal;vt;https://www.virustotal.com/#/search/%s;Analyze suspicious URLs, domains, or files
 Cybersecurity;whois.domaintools.com;whois;https://whois.domaintools.com/go/?q=%s&service=whois;Search Whois data for a domain or IP
