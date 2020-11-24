@@ -21,7 +21,7 @@
 "File sharing","Google Drive","gdrive","https://drive.google.com/drive/search?q=%s",""
 "Maps","Google Maps","gmaps","https://www.google.com/maps/search/%s?hl=en&source=opensearch",""
 "Media","Google News","gnews","https://news.google.com/search?q=%s&hl=en-US&gl=US&ceid=US%3Aen","Search Google for news"
-"Multimedia","Humble Bundle","hb","https://www.humblebundle.com/store/search?search=%s&hmb_source=opensearch&hmb_medium=opensearch&hmb_campaign=opensearch;
+"Multimedia","Humble Bundle","hb","https://www.humblebundle.com/store/search?search=%s&hmb_source=opensearch&hmb_medium=opensearch&hmb_campaign=opensearch";""
 "Multimedia","YouTube","yt","https://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch",""
 "Multimedia","Giphy","gif","https://giphy.com/search/%s","Search for GIFs"
 "Other","AllRecipes","recipe","https://www.allrecipes.com/search/results/?wt=%s","Search for recipes"
