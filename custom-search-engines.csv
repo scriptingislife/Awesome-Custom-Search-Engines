@@ -1,62 +1,62 @@
-Category;Search engine;Keyword;Query URL;Description
-Blogging;Medium;medium;https://medium.com/search?q=%s&ref=opensearch;
-Cybersecurity;abuseipdb.com;abuse;https://www.abuseipdb.com/check/?query=%s;
-Cybersecurity;adsecurity.org;adsec;https://adsecurity.org/?s=%s;
-Cybersecurity;kb.alsid.app;alsidkb;https://kb.alsid.app/Content/Search?keywords=%s&fullSearch=True&searchType=;
-Cybersecurity;CENSYS;censys ;https://censys.io/ipv4?q=%s;Search devices on the internet
-Cybersecurity;CVE Details ;cve;https://www.cvedetails.com/cve/%s;Get details on a specific CVE ID
-Cybersecurity;community.fireeye.com;fecom;https://community.fireeye.com/s/search?terms=%s;
-Cybersecurity;host.io;host.io;https://host.io/search?domain=%s;
-Cybersecurity;joesandbox.com;jsb;https://www.joesandbox.com/search?q=%s;
-Cybersecurity;Pulsedive;pulsedive;https://pulsedive.com/ioc/%s;
-Cybersecurity;RiskIQ;riskiq;https://community.riskiq.com/search/%s/;
-Cybersecurity;docs.sekoia.io;sekoiadoc;https://docs.sekoia.io/search.html?q=%s;
-Cybersecurity;Shodan;shodan;https://www.shodan.io/search?query=%s;Search devices on the internet
-Cybersecurity;Threatcrowd;tc;https://www.threatcrowd.org/domain.php?domain=%s;Correlate IPs or domains or emails or other
-Cybersecurity;URLScan.io Domain;urlscand;https://urlscan.io/domain/%s;Lookup domain information and past scans
-Cybersecurity;URLScan.io General;urlscan;https://urlscan.io/search/#%s;Search scans that contain files or IPs or other
-Cybersecurity;VirusTotal;vt;https://www.virustotal.com/#/search/%s;Analyze suspicious URLs or domains or files
-Cybersecurity;whois.domaintools.com;whois;https://whois.domaintools.com/go/?q=%s&service=whois;Search Whois data for a domain or IP
-Cybersecurity;ZoomEye ;ze;https://www.zoomeye.org/searchResult?q=%s;A cyberspace search engine
-File sharing;Google Drive;gdrive;https://drive.google.com/drive/search?q=%s;
-Maps;Google Maps;gmaps;https://www.google.com/maps/search/%s?hl=en&source=opensearch;
-Media;Google News;gnews;https://news.google.com/search?q=%s&hl=en-US&gl=US&ceid=US%3Aen;Search Google for news
-Multimedia;Humble Bundle;hb;https://www.humblebundle.com/store/search?search=%s&hmb_source=opensearch&hmb_medium=opensearch&hmb_campaign=opensearch;
-Multimedia;YouTube;yt;https://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch;
-Multimedia;Giphy;gif;https://giphy.com/search/%s;Search for GIFs
-Other;AllRecipes;recipe;https://www.allrecipes.com/search/results/?wt=%s;Search for recipes
-Other;Google Job Search;gjob;'https://www.google.com/search?q=%s&ibp=htl;jobs';Search Google for jobs
-Other;Thesaurus;thesaurus;https://www.thesaurus.com/browse/%s;Lookup synonyms and antonyms of a word
-Photography;Flickr;fl;https://www.flickr.com/search/?text=%s&opensearch=yes;
-Photography;Google Image;gimg;https://www.google.com/search?tbm=isch&q=%s;
-Reference Sites;Wikipedia (en);wikien;https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s;
-Reference Sites;Wikipédia (fr);wikifr;https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Recherche&search=%s;
-Reference Sites;Wiktionary (en);wikitionary;https://en.wiktionary.org/wiki/Special:Search?search=%s&go=Go;
-Search engine;DuckDuckGo;ddg;https://duckduckgo.com/?q=%s;
-Shopping;Amazon;amz;https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=%s&x=0&y=0;
-Social media;Facebook;fb;https://www.facebook.com/search/top/?q=%s;Search Facebook
-Social media;LinkedIn;linkedin;https://www.linkedin.com/search/results/all/?keywords=%s&origin=GLOBAL_SEARCH_HEADER;
-Social media;Reddit;reddit;https://reddit.com/search?q=%s;Use the Reddit Search
-Social media;Twitter;tw;https://twitter.com/search?q=%s;Search Twitter
-Software;AlternativeTo Software;altern;https://alternativeto.net/browse/search/?q=%s;
-Technology;Docker Hub Image;dh;https://hub.docker.com/search?q=%s&type=image;
-Technology;Docker Hub;dockerhub;https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=%s&starCount=0; Search for container images
-Technology;Epoch Converter - Epoch to Date;epoch;https://www.epochconverter.com/?source=searchbar&q=%s;
-Technology;File Extensions;extension;https://fileinfo.com/extension/%s; Get details on a file extension
-Technology;Github;gh;https://github.com/search?q=%s&ref=opensearch;
-Technology;GitHub Gist;ghgist;https://gist.github.com/search?q=%s&ref=opensearch;
-Technology;GitLab;gl;https://gitlab.com/search?search=%s;
-Technology;Hackage;hg;https://hackage.haskell.org/packages/search?terms=%s;
-Technology;Hoogle;hoogle;https://www.haskell.org/hoogle/?hoogle=%s;
-Technology;HTML Tags;html;https://www.w3schools.com/tags/tag_%s.asp; Get definitions and usage for an HTML tag
-Technology;HTTP Status Codes;httpcode;https://developer.mozilla.org/en/US/docs/Web/HTTP/Status/%s; Get details on a specific
-Technology;HTTP Headers;httpheader;https://developer.mozilla.org/en/US/docs/Web/HTTP/Headers/%s; See a description of a specific http header
-Technology;Port Lookup;port;https://www.speedguide.net/port.php?port=%s; Lookup what service is assigned to a port
-Technology;Stack Exchange;stackexch;https://skeptics.stackexchange.com/search?q=%s;
-Technology;Stack Overflow;stackover;https://stackoverflow.com/search?q=%s; Search Stack Overflow for programming answers
-Technology;explainshell.com;xshell;https://explainshell.com/explain?cmd=%s;
-Tool;Wolfram Alpha;walpha;https://www.wolframalpha.com/input/?i=%s;Do math calculations
-Translation;Google Translate English to French;gtradenfr;https://translate.google.com/#en%7Cfr%7C%s%0A;
-Translation;Google Translate French to English;gtradfren;https://translate.google.com/#fr%7Cen%7C%s%0A;
-Translation;Linguee;linenfr;https://www.linguee.fr/anglais-francais/search?source=auto&query=%s;
-Translation;Linguee;linfren;https://www.linguee.fr/francais-anglais/search?source=auto&query=%s;
+"Category","Search engine","Keyword","Query URL","Description"
+"Blogging","Medium;medium","https://medium.com/search?q=%s&ref=opensearch",""
+"Cybersecurity","abuseipdb.com","abuse","https://www.abuseipdb.com/check/?query=%s",""
+"Cybersecurity","adsecurity.org","adsec","https://adsecurity.org/?s=%s",""
+"Cybersecurity","kb.alsid.app","alsidkb","https://kb.alsid.app/Content/Search?keywords=%s&fullSearch=True&searchType=",""
+"Cybersecurity","CENSYS;censys","https://censys.io/ipv4?q=%s","Search devices on the internet"
+"Cybersecurity","CVE Details","cve","https://www.cvedetails.com/cve/%s","Get details on a specific CVE ID"
+"Cybersecurity","community.fireeye.com","fecom","https://community.fireeye.com/s/search?terms=%s",""
+"Cybersecurity","host.io;host.io","https://host.io/search?domain=%s",""
+"Cybersecurity","joesandbox.com","jsb","https://www.joesandbox.com/search?q=%s",""
+"Cybersecurity","Pulsedive;pulsedive","https://pulsedive.com/ioc/%s",""
+"Cybersecurity","RiskIQ;riskiq","https://community.riskiq.com/search/%s/",""
+"Cybersecurity","docs.sekoia.io","sekoiadoc","https://docs.sekoia.io/search.html?q=%s",""
+"Cybersecurity","Shodan;shodan","https://www.shodan.io/search?query=%s","Search devices on the internet"
+"Cybersecurity","Threatcrowd;tc","https://www.threatcrowd.org/domain.php?domain=%s","Correlate IPs or domains or emails or other"
+"Cybersecurity","URLScan.io Domain","urlscand","https://urlscan.io/domain/%s","Lookup domain information and past scans"
+"Cybersecurity","URLScan.io General","urlscan","https://urlscan.io/search/#%s","Search scans that contain files or IPs or other"
+"Cybersecurity","VirusTotal","vt","https://www.virustotal.com/#/search/%s","Analyze suspicious URLs or domains or files"
+"Cybersecurity","whois.domaintools.com","whois","https://whois.domaintools.com/go/?q=%s&service=whois","Search Whois data for a domain or IP"
+"Cybersecurity","ZoomEye","ze","https://www.zoomeye.org/searchResult?q=%s","A cyberspace search engine"
+"File sharing","Google Drive","gdrive","https://drive.google.com/drive/search?q=%s",""
+"Maps","Google Maps","gmaps","https://www.google.com/maps/search/%s?hl=en&source=opensearch",""
+"Media","Google News","gnews","https://news.google.com/search?q=%s&hl=en-US&gl=US&ceid=US%3Aen","Search Google for news"
+"Multimedia","Humble Bundle","hb","https://www.humblebundle.com/store/search?search=%s&hmb_source=opensearch&hmb_medium=opensearch&hmb_campaign=opensearch;
+"Multimedia","YouTube","yt","https://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch",""
+"Multimedia","Giphy","gif","https://giphy.com/search/%s","Search for GIFs"
+"Other","AllRecipes","recipe","https://www.allrecipes.com/search/results/?wt=%s","Search for recipes"
+"Other","Google Job Search","gjob;'https://www.google.com/search?q=%s&ibp=htl;jobs';Search Google for jobs"
+"Other","Thesaurus","thesaurus","https://www.thesaurus.com/browse/%s","Lookup synonyms and antonyms of a word"
+"Photography","Flickr","fl","https://www.flickr.com/search/?text=%s&opensearch=yes",""
+"Photography","Google Image","gimg","https://www.google.com/search?tbm=isch&q=%s",""
+"Reference Sites","Wikipedia (en)","wikien","https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s","
+"Reference Sites","Wikipédia (fr)","wikifr","https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Recherche&search=%s",""
+"Reference Sites","Wiktionary (en)","wikitionary","https://en.wiktionary.org/wiki/Special:Search?search=%s&go=Go",""
+"Search engine","DuckDuckGo","ddg","https://duckduckgo.com/?q=%s",""
+"Shopping","Amazon","amz","https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=%s&x=0&y=0",""
+"Social media","Facebook","fb","https://www.facebook.com/search/top/?q=%s","Search Facebook"
+"Social media","LinkedIn","linkedin","https://www.linkedin.com/search/results/all/?keywords=%s&origin=GLOBAL_SEARCH_HEADER",""
+"Social media","Reddit","reddit","https://reddit.com/search?q=%s","Use the Reddit Search"
+"Social media","Twitter","tw","https://twitter.com/search?q=%s","Search Twitter"
+"Software","AlternativeTo Software","altern","https://alternativeto.net/browse/search/?q=%s",""
+"Technology","Docker Hub Image","dh","https://hub.docker.com/search?q=%s&type=image",""
+"Technology","Docker Hub","dockerhub","https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=%s&starCount=0","Search for container images"
+"Technology","Epoch Converter - Epoch to Date","epoch","https://www.epochconverter.com/?source=searchbar&q=%s",""
+"Technology","File Extensions","extension","https://fileinfo.com/extension/%s","Get details on a file extension"
+"Technology","Github","gh","https://github.com/search?q=%s&ref=opensearch",""
+"Technology","GitHub Gist","ghgist","https://gist.github.com/search?q=%s&ref=opensearch",""
+"Technology","GitLab","gl","https://gitlab.com/search?search=%s",""
+"Technology","Hackage","hg","https://hackage.haskell.org/packages/search?terms=%s",""
+"Technology","Hoogle","hoogle","https://www.haskell.org/hoogle/?hoogle=%s",""
+"Technology","HTML Tags","html","https://www.w3schools.com/tags/tag_%s.asp","Get definitions and usage for an HTML tag"
+"Technology","HTTP Status Codes","httpcode","https://developer.mozilla.org/en/US/docs/Web/HTTP/Status/%s","Get details on a specific"
+"Technology","HTTP Headers","httpheader","https://developer.mozilla.org/en/US/docs/Web/HTTP/Headers/%s","See a description of a specific http header"
+"Technology","Port Lookup","port","https://www.speedguide.net/port.php?port=%s","Lookup what service is assigned to a port"
+"Technology","Stack Exchange","stackexch","https://skeptics.stackexchange.com/search?q=%s",""
+"Technology","Stack Overflow","stackover","https://stackoverflow.com/search?q=%s","Search Stack Overflow for programming answers"
+"Technology","explainshell.com","xshell","https://explainshell.com/explain?cmd=%s",""
+"Tool","Wolfram Alpha","walpha","https://www.wolframalpha.com/input/?i=%s","Do math calculations"
+"Translation","Google Translate English to French","gtradenfr","https://translate.google.com/#en%7Cfr%7C%s%0A",""
+"Translation","Google Translate French to English","gtradfren","https://translate.google.com/#fr%7Cen%7C%s%0A",""
+"Translation","Linguee","linenfr","https://www.linguee.fr/anglais-francais/search?source=auto&query=%s",""
+"Translation","Linguee","linfren","https://www.linguee.fr/francais-anglais/search?source=auto&query=%s",""
