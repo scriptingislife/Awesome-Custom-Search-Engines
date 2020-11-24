@@ -57,5 +57,5 @@
 "Tool","Wolfram Alpha","walpha","https://www.wolframalpha.com/input/?i=%s","Do math calculations"
 "Translation","Google Translate English to French","gtradenfr","https://translate.google.com/#en%7Cfr%7C%s%0A",""
 "Translation","Google Translate French to English","gtradfren","https://translate.google.com/#fr%7Cen%7C%s%0A",""
-"Translation","Linguee","linenfr","https://www.linguee.fr/anglais-francais/search?source=auto&query=%s",""
-"Translation","Linguee","linfren","https://www.linguee.fr/francais-anglais/search?source=auto&query=%s",""
+"Translation","Linguee English to French","linenfr","https://www.linguee.fr/anglais-francais/search?source=auto&query=%s",""
+"Translation","Linguee French to English","linfren","https://www.linguee.fr/francais-anglais/search?source=auto&query=%s",""
