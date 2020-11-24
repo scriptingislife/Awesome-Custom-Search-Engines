@@ -29,7 +29,7 @@
 "Other","Thesaurus","thesaurus","https://www.thesaurus.com/browse/%s","Lookup synonyms and antonyms of a word"
 "Photography","Flickr","fl","https://www.flickr.com/search/?text=%s&opensearch=yes",""
 "Photography","Google Image","gimg","https://www.google.com/search?tbm=isch&q=%s",""
-"Reference Sites","Wikipedia (en)","wikien","https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s","
+"Reference Sites","Wikipedia (en)","wikien","https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s",""
 "Reference Sites","Wikipédia (fr)","wikifr","https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Recherche&search=%s",""
 "Reference Sites","Wiktionary (en)","wikitionary","https://en.wiktionary.org/wiki/Special:Search?search=%s&go=Go",""
 "Search engine","DuckDuckGo","ddg","https://duckduckgo.com/?q=%s",""
