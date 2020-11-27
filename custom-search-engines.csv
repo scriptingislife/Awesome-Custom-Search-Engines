@@ -2,6 +2,7 @@
 "Blogging","Medium","medium","https://medium.com/search?q=%s&ref=opensearch",""
 "Cybersecurity","abuseipdb.com","abuse","https://www.abuseipdb.com/check/?query=%s",""
 "Cybersecurity","adsecurity.org","adsec","https://adsecurity.org/?s=%s",""
+"Cybersecurity","Any.Run File hash","anyrun","https://app.any.run/submissions/#filehash:%s","Find Any.Run sandbox file detonation result by hash"
 "Cybersecurity","kb.alsid.app","alsidkb","https://kb.alsid.app/Content/Search?keywords=%s&fullSearch=True&searchType=",""
 "Cybersecurity","CENSYS","censys","https://censys.io/ipv4?q=%s","Search devices on the internet"
 "Cybersecurity","CVE Details","cve","https://www.cvedetails.com/cve/%s","Get details on a specific CVE ID"
