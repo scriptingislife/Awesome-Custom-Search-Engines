@@ -8,6 +8,7 @@
 "Cybersecurity","community.fireeye.com","fecom","https://community.fireeye.com/s/search?terms=%s",""
 "Cybersecurity","host.io","host.io","https://host.io/search?domain=%s",""
 "Cybersecurity","joesandbox.com","jsb","https://www.joesandbox.com/search?q=%s",""
+"Cybersecurity","Kitploit","kitploit","https://www.kitploit.com/search/max-results=7?q=%s","PenTest & Hacking Tools"
 "Cybersecurity","Pulsedive","pulsedive","https://pulsedive.com/ioc/%s",""
 "Cybersecurity","RiskIQ","riskiq","https://community.riskiq.com/search/%s/",""
 "Cybersecurity","docs.sekoia.io","sekoiadoc","https://docs.sekoia.io/search.html?q=%s",""
