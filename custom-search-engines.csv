@@ -5,6 +5,7 @@
 "Cybersecurity","Any.Run File hash","anyrun","https://app.any.run/submissions/#filehash:%s","Find Any.Run sandbox file detonation result by hash"
 "Cybersecurity","kb.alsid.app","alsidkb","https://kb.alsid.app/Content/Search?keywords=%s&fullSearch=True&searchType=",""
 "Cybersecurity","CENSYS","censys","https://censys.io/ipv4?q=%s","Search devices on the internet"
+"Cybersecurity","COMODO Valkyrie SHA1","valkyrie","https://valkyrie.comodo.com/get_info?sha1=%s","Valkyrie is a file verdict system. Different from traditional signature based malware detection techniques Valkyrie conducts several analysis using run-time behavior and hundreds of features from a file and based on analysis results can warn users against malware undetected by classic Anti-Virus products."
 "Cybersecurity","CVE Details","cve","https://www.cvedetails.com/cve/%s","Get details on a specific CVE ID"
 "Cybersecurity","community.fireeye.com","fecom","https://community.fireeye.com/s/search?terms=%s",""
 "Cybersecurity","GreyNoise IP","gnip","https://viz.greynoise.io/query?gnql=ip%3A%s","Threat Intelligence"
