@@ -45,6 +45,7 @@
 "Technology","Docker Hub Image","dh","https://hub.docker.com/search?q=%s&type=image","Search for container images"
 "Technology","Epoch Converter - Epoch to Date","epoch","https://www.epochconverter.com/?source=searchbar&q=%s",""
 "Technology","File Extensions","extension","https://fileinfo.com/extension/%s","Get details on a file extension"
+"Technology","File Info","fileinfo","https://file.info/windows/%s.html","Get details on an executable file"
 "Technology","Github","gh","https://github.com/search?q=%s&ref=opensearch",""
 "Technology","GitHub Gist","ghgist","https://gist.github.com/search?q=%s&ref=opensearch",""
 "Technology","GitLab","gl","https://gitlab.com/search?search=%s",""
