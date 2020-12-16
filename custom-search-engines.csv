@@ -8,6 +8,7 @@
 "Cybersecurity","COMODO Valkyrie SHA1","valkyrie","https://valkyrie.comodo.com/get_info?sha1=%s","Valkyrie is a file verdict system. Different from traditional signature based malware detection techniques Valkyrie conducts several analysis using run-time behavior and hundreds of features from a file and based on analysis results can warn users against malware undetected by classic Anti-Virus products."
 "Cybersecurity","CVE Details","cve","https://www.cvedetails.com/cve/%s","Get details on a specific CVE ID"
 "Cybersecurity","community.fireeye.com","fecom","https://community.fireeye.com/s/search?terms=%s",""
+"Cybersecurity","Office 365 Security & Compliance - ATP Alert","atpalert","https://protection.office.com/viewalerts?id=%s",""
 "Cybersecurity","GreyNoise IP","gnip","https://viz.greynoise.io/query?gnql=ip%3A%s","Threat Intelligence"
 "Cybersecurity","host.io","host.io","https://host.io/search?domain=%s",""
 "Cybersecurity","joesandbox.com","jsb","https://www.joesandbox.com/search?q=%s",""
