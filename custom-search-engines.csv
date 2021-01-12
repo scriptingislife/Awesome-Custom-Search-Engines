@@ -22,6 +22,7 @@
 "Cybersecurity","URLScan.io General","urlscan","https://urlscan.io/search/#%s","Search scans that contain files or IPs or other"
 "Cybersecurity","VirusTotal","vt","https://www.virustotal.com/#/search/%s","Analyze suspicious URLs or domains or files"
 "Cybersecurity","whois.domaintools.com","whois","https://whois.domaintools.com/go/?q=%s&service=whois","Search Whois data for a domain or IP"
+"Cybersecurity","Windows Security Log Events","eventid","https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=%s","Search EventID into the Randy Franklin Smith's Windows Security Log Events encyclopedia"
 "Cybersecurity","ZoomEye","ze","https://www.zoomeye.org/searchResult?q=%s","A cyberspace search engine"
 "File sharing","Google Drive","gdrive","https://drive.google.com/drive/search?q=%s",""
 "Maps","Google Maps","gmaps","https://www.google.com/maps/search/%s?hl=en&source=opensearch",""
