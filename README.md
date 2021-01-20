@@ -28,6 +28,7 @@ You will find below some examples of custom search engines. These entries will b
 * [URLScan.io Domain](https://urlscan.io) - Lookup domain information and past scans. `https://urlscan.io/domain/%s` 
 * [URLScan.io General](https://urlscan.io) - Search scans that contain files, IPs, etc. `https://urlscan.io/search/#%s`
 * [VirusTotal](https://www.virustotal.com/) - Analyze suspicious URLs, domains, or files `https://www.virustotal.com/#/search/%s`
+* [Windows Security Log Events Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia) - Search EventID into the Randy Franklin Smith's Windows Security Log Events encyclopedia `https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=%s`
 * [Whois Lookup](https://whois.domaintools.com/) - Search Whois data for a domain or IP `https://whois.domaintools.com/%s`
 * [ZoomEye](https://www.zoomeye.org/) - A cyberspace search engine `https://www.zoomeye.org/searchResult?q=%s`
 
