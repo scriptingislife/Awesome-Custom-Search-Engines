@@ -11,6 +11,7 @@
 "Cybersecurity","Office 365 Security & Compliance - ATP Alert","atpalert","https://protection.office.com/viewalerts?id=%s",""
 "Cybersecurity","GreyNoise IP","gnip","https://viz.greynoise.io/query?gnql=ip%3A%s","Threat Intelligence"
 "Cybersecurity","host.io","host.io","https://host.io/search?domain=%s",""
+"Cybersecurity","InQuest IOC-DB","iocdb","https://labs.inquest.net/iocdb/search/%s","IOCs from the plethora of OSINT published by individuals and teams through mediums such as Twitter, Github, and blogs. Searchable artifacts include domains, hashes, IP addresses, URLs, and YARA rules"
 "Cybersecurity","joesandbox.com","jsb","https://www.joesandbox.com/search?q=%s",""
 "Cybersecurity","Kitploit","kitploit","https://www.kitploit.com/search/max-results=7?q=%s","PenTest & Hacking Tools"
 "Cybersecurity","Pulsedive","pulsedive","https://pulsedive.com/ioc/%s",""
