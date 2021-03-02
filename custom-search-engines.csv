@@ -17,6 +17,7 @@
 "Cybersecurity","Pulsedive","pulsedive","https://pulsedive.com/ioc/%s",""
 "Cybersecurity","RiskIQ","riskiq","https://community.riskiq.com/search/%s/",""
 "Cybersecurity","docs.sekoia.io","sekoiadoc","https://docs.sekoia.io/search.html?q=%s",""
+"Cybersecurity","InQuest REP-DB","repdb","https://labs.inquest.net/repdb/search/%s","Search a catalog of IP addresses, ASNs, URLs, and domains aggregated from over two dozen public reputation dissemination feeds. Pivot from these indicators through other tools like Shodan, Greynoise, DomainTools, VirusTotal, and PacketTotal."
 "Cybersecurity","Shodan","shodan","https://www.shodan.io/search?query=%s","Search devices on the internet"
 "Cybersecurity","Threatcrowd","tc","https://www.threatcrowd.org/domain.php?domain=%s","Correlate IPs or domains or emails or other"
 "Cybersecurity","URLScan.io Domain","urlscand","https://urlscan.io/domain/%s","Lookup domain information and past scans"
