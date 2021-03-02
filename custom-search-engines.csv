@@ -14,6 +14,7 @@
 "Cybersecurity","InQuest IOC-DB","iocdb","https://labs.inquest.net/iocdb/search/%s","IOCs from the plethora of OSINT published by individuals and teams through mediums such as Twitter, Github, and blogs. Searchable artifacts include domains, hashes, IP addresses, URLs, and YARA rules"
 "Cybersecurity","joesandbox.com","jsb","https://www.joesandbox.com/search?q=%s",""
 "Cybersecurity","Kitploit","kitploit","https://www.kitploit.com/search/max-results=7?q=%s","PenTest & Hacking Tools"
+"Cybersecurity","Maware Bazaar","malwarebazaar","https://bazaar.abuse.ch/browse.php?search=%s","Abuse.ch malware sample database. You can search by a hash (MD5, SHA256, SHA1), imphash, tlsh hash, ClamAV signature, tag or malware family"
 "Cybersecurity","Pulsedive","pulsedive","https://pulsedive.com/ioc/%s",""
 "Cybersecurity","RiskIQ","riskiq","https://community.riskiq.com/search/%s/",""
 "Cybersecurity","docs.sekoia.io","sekoiadoc","https://docs.sekoia.io/search.html?q=%s",""
